@@ -27,6 +27,7 @@ The reason this argument is false or at least misleading is it that it fails to 
 - Link studies
 - Do you want to be hiring your skills from a 3rd party?
 - The fuzzy feeling, trust instead of validating, uninformed choices and falling back to recommended
+- If we know there is a _ramp up_ period when hiring senior engineers and we don't expect them to be a real _force multiplier_ until they have an understanding of the system then how do we expect these engineers to ever provide real value if we keep them stuck at day zero.
 
 ### Can we still value?
 
