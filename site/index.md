@@ -16,11 +16,21 @@ This document posits that the discourse surrounding the use of LLM's in software
 
 The reason this argument is false or at least misleading is it that it fails to ever factor in **understanding** and by understanding we mean the ability for an engineer to reason about the software at a deep level. When we talk about understanding we are not talking about high level abstractions or architectural diagrams we are talking about the _in the weeds_ parts of your software that actually perform logic and deliver results.
 
+### Why write code?
+
+If the above argument is entirely predicated on needing to understand the software we work with surely we can achieve that understanding without writing code?
+
+I see this argument presented somewhat frequently and I think it's totally valid, unfortunately in my own experience I've not found a better mechanism for gaining a deep understanding of the problem space and minutiae without writing the code myself. It just so happens the explicit nature of authoring code is often a brilliant way to calcify ones own understanding.
+
+Supplementary to this the individuals I have often seen touting this argument (some of whom I've worked with) in practice have shown a moderate to severe lack of understanding when any real pressure is applied. I'm not saying that my own experience is indicitive of the entire industry but it has certainly solidified my view.
+
 ### Common arguments against
 
 - We don't need to understand? - If so how to we reduce entropy?
+- I understand the code at a high level - We don't ship high level concepts to the user we ship bytes and we better know exactly what they are doing not what the _should_ be doing
 - LLM's don't care about tech debt? - Are you willing to bet your entire product on their being no upper bound to the complexity they can handle?
 - The models will keep getting better? - Will they?
+- Who's going to be there when the shit hits the fan - **I think this one is a logical fallacy**
 
 ### Common arguments for (with proof)
 
@@ -32,15 +42,18 @@ The reason this argument is false or at least misleading is it that it fails to 
 ### Can we still value?
 
 - LLM's are execellent at lots of parts of the SDLC I would just argue code generation is not one of those parts
+- Duplicating existing / similar logic we've recently authored (appropriate time for us to review)
 - Invalidate, challenge, review
 
 ### What about bottlenecks?
 
-Friction = focus & focus = product
+I don't really think code was ever the bottleneck despite what some people say.
+
+[Friction = focus & focus = product](https://thoughts.hmmz.org/2026-05-31.html)
 
 ### Is it ego?
 
-- Weird takes
+- [Weird takes](https://x.com/ryanflorence/status/2102849480760721664)
 - Mourning our craft (should we?)
 
 ### Where to next?

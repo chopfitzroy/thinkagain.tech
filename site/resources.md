@@ -1,6 +1,6 @@
 # Resources
 
-List of resources grouped by type.
+List of resources grouped by type. This is not by any means a definitive list just spoke to me in particular.
 
 ### Blog posts
 
@@ -9,6 +9,7 @@ List of resources grouped by type.
 - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)
 - [It’s 2026, and I’m still leery of using LLMs to generate code](https://will-keleher.com/posts/leery-of-using-ai-to-generate-code/)
 - [Why I don't use AI coding tools (and why science agrees)](https://codeutopia.net/blog/2026/05/16/why-i-dont-use-ai-tools-and-why-science-agrees/)
+- [The decoherence trap](https://maevyn.codes/decoherence)
 
 ### Videos
 
