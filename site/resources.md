@@ -11,6 +11,7 @@ List of resources grouped by type. This is not by any means a definitive list ju
 - [Why I don't use AI coding tools (and why science agrees)](https://codeutopia.net/blog/2026/05/16/why-i-dont-use-ai-tools-and-why-science-agrees/)
 - [The decoherence trap](https://maevyn.codes/decoherence)
 - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+- [Agentic coding is a trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 
 ### Videos
 
